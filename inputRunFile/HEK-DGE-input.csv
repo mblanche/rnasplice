@@ -1,0 +1,16 @@
+sample,fastq_1,fastq_2,condition,replicate
+HEK_A050_1,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R1/R1_1.fq.gz,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R1/R1_2.fq.gz,HEK_A050,1
+HEK_A050_2,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R2/R2_1.fq.gz,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R2/R2_2.fq.gz,HEK_A050,2
+HEK_A050_3,s3://liftoffbio-data/ribogenix-pseudoDUP/HEK_A050-pseudoRep/HEK_A050-pseudoRep_1.fq.gz,s3://liftoffbio-data/ribogenix-pseudoDUP/HEK_A050-pseudoRep/HEK_A050-pseudoRep_2.fq.gz,HEK_A050,3
+HEK_DMSO_1,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R9/R9_1.fq.gz,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R9/R9_2.fq.gz,HEK_DMSO,1
+HEK_DMSO_2,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R10/R10_1.fq.gz,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R10/R10_2.fq.gz,HEK_DMSO,2
+HEK_DMSO_3,s3://liftoffbio-data/ribogenix-pseudoDUP/HEK_DMSO-pseudoRep/HEK_DMSO-pseudoRep_1.fq.gz,s3://liftoffbio-data/ribogenix-pseudoDUP/HEK_DMSO-pseudoRep/HEK_DMSO-pseudoRep_2.fq.gz,HEK_DMSO,3
+HEK_Ris_1,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R7/R7_1.fq.gz,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R7/R7_2.fq.gz,HEK_Ris,1
+HEK_Ris_2,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R8/R8_1.fq.gz,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R8/R8_2.fq.gz,HEK_Ris,2
+HEK_Ris_3,s3://liftoffbio-data/ribogenix-pseudoDUP/HEK_Ris-pseudoRep/HEK_Ris-pseudoRep_1.fq.gz,s3://liftoffbio-data/ribogenix-pseudoDUP/HEK_Ris-pseudoRep/HEK_Ris-pseudoRep_2.fq.gz,HEK_Ris,3
+HEK_T004_1,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R3/R3_1.fq.gz,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R3/R3_2.fq.gz,HEK_T004,1
+HEK_T004_2,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R4/R4_1.fq.gz,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R4/R4_2.fq.gz,HEK_T004,2
+HEK_T004_3,s3://liftoffbio-data/ribogenix-pseudoDUP/HEK_T004-pseudoRep/HEK_T004-pseudoRep_1.fq.gz,s3://liftoffbio-data/ribogenix-pseudoDUP/HEK_T004-pseudoRep/HEK_T004-pseudoRep_2.fq.gz,HEK_T004,3
+HEK_T012_1,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R5/R5_1.fq.gz,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R5/R5_2.fq.gz,HEK_T012,1
+HEK_T012_2,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R6/R6_1.fq.gz,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R6/R6_2.fq.gz,HEK_T012,2
+HEK_T012_3,s3://liftoffbio-data/ribogenix-pseudoDUP/HEK_T012-pseudoRep/HEK_T012-pseudoRep_1.fq.gz,s3://liftoffbio-data/ribogenix-pseudoDUP/HEK_T012-pseudoRep/HEK_T012-pseudoRep_2.fq.gz,HEK_T012,3

@@ -1,0 +1,5 @@
+﻿id,variable,reference,target
+WC30_A050_over_DMSO,condition,WC30_DMSO,WC30_A050
+WC30_Ris_over_DMSO,condition,WC30_DMSO,WC30_Ris
+WC30_T004_over_DMSO,condition,WC30_DMSO,WC30_T004
+WC30_T012_over_DMSO,condition,WC30_DMSO,WC30_T012

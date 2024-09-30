@@ -1,0 +1,5 @@
+﻿id,variable,reference,target
+HEK_A050_over_DMSO,condition,HEK_DMSO,HEK_A050
+HEK_Ris_over_DMSO,condition,HEK_DMSO,HEK_Ris
+HEK_T004_over_DMSO,condition,HEK_DMSO,HEK_T004
+HEK_T012_over_DMSO,condition,HEK_DMSO,HEK_T012

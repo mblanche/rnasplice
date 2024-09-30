@@ -1,0 +1,16 @@
+sample,fastq_1,fastq_2,strandedness,condition
+F232_A050_1,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R11/R11_1.fq.gz,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R11/R11_2.fq.gz,reverse,F232_A050
+F232_A050_2,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R12/R12_1.fq.gz,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R12/R12_2.fq.gz,reverse,F232_A050
+F232_A050_3,s3://liftoffbio-data/ribogenix-pseudoDUP/F232_A050-pseudoRep/F232_A050-pseudoRep_1.fq.gz,s3://liftoffbio-data/ribogenix-pseudoDUP/F232_A050-pseudoRep/F232_A050-pseudoRep_2.fq.gz,reverse,F232_A050
+F232_DMSO_1,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R19/R19_1.fq.gz,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R19/R19_2.fq.gz,reverse,F232_DMSO
+F232_DMSO_2,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R20/R20_1.fq.gz,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R20/R20_2.fq.gz,reverse,F232_DMSO
+F232_DMSO_3,s3://liftoffbio-data/ribogenix-pseudoDUP/F232_DMSO-pseudoRep/F232_DMSO-pseudoRep_1.fq.gz,s3://liftoffbio-data/ribogenix-pseudoDUP/F232_DMSO-pseudoRep/F232_DMSO-pseudoRep_2.fq.gz,reverse,F232_DMSO
+F232_Ris_1,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R17/R17_1.fq.gz,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R17/R17_2.fq.gz,reverse,F232_Ris
+F232_Ris_2,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R18/R18_1.fq.gz,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R18/R18_2.fq.gz,reverse,F232_Ris
+F232_Ris_3,s3://liftoffbio-data/ribogenix-pseudoDUP/F232_Ris-pseudoRep/F232_Ris-pseudoRep_1.fq.gz,s3://liftoffbio-data/ribogenix-pseudoDUP/F232_Ris-pseudoRep/F232_Ris-pseudoRep_2.fq.gz,reverse,F232_Ris
+F232_T004_1,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R13/R13_1.fq.gz,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R13/R13_2.fq.gz,reverse,F232_T004
+F232_T004_2,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R14/R14_1.fq.gz,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R14/R14_2.fq.gz,reverse,F232_T004
+F232_T004_3,s3://liftoffbio-data/ribogenix-pseudoDUP/F232_T004-pseudoRep/F232_T004-pseudoRep_1.fq.gz,s3://liftoffbio-data/ribogenix-pseudoDUP/F232_T004-pseudoRep/F232_T004-pseudoRep_2.fq.gz,reverse,F232_T004
+F232_T012_1,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R15/R15_1.fq.gz,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R15/R15_2.fq.gz,reverse,F232_T012
+F232_T012_2,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R16/R16_1.fq.gz,s3://liftoffbio-data/first-ribogenix-rnaseq/01.RawData/R16/R16_2.fq.gz,reverse,F232_T012
+F232_T012_3,s3://liftoffbio-data/ribogenix-pseudoDUP/F232_T012-pseudoRep/F232_T012-pseudoRep_1.fq.gz,s3://liftoffbio-data/ribogenix-pseudoDUP/F232_T012-pseudoRep/F232_T012-pseudoRep_2.fq.gz,reverse,F232_T012
