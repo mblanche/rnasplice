@@ -1,6 +1,7 @@
 nextflow run main.nf \
-  --input ../../RNA-Seq-DGE/RNASplice-F232-input.csv \
-  --contrasts ../../RNA-Seq-DGE/contrast_F232.csv \
+  --source genome_bam \
+  --input inputRunFile/RNASplice-input-test-bam.csv \
+  --contrasts inputRunFile/contrast_test.csv \
   --outdir ./testOutdir \
   --genome GRCh38 \
   -profile docker \

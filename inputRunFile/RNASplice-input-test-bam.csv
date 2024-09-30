@@ -1,0 +1,7 @@
+sample,condition,genome_bam
+F232_A050_1,F232_A050,s3://liftoffbio-data/nf-core-rna-seq/star_salmon/F232_A050_1.markdup.sorted.bam
+F232_A050_2,F232_A050,s3://liftoffbio-data/nf-core-rna-seq/star_salmon/F232_A050_2.markdup.sorted.bam
+F232_A050_3,F232_A050,s3://liftoffbio-data/nf-core-rna-seq/star_salmon/F232_A050_3.markdup.sorted.bam
+F232_DMSO_1,F232_DMSO,s3://liftoffbio-data/nf-core-rna-seq/star_salmon/F232_DMSO_1.markdup.sorted.bam
+F232_DMSO_2,F232_DMSO,s3://liftoffbio-data/nf-core-rna-seq/star_salmon/F232_DMSO_2.markdup.sorted.bam
+F232_DMSO_3,F232_DMSO,s3://liftoffbio-data/nf-core-rna-seq/star_salmon/F232_DMSO_3.markdup.sorted.bam
