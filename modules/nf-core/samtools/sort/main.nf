@@ -24,11 +24,9 @@ process SAMTOOLS_SORT {
     def sort_memory = (task.memory.mega/task.cpus).intValue()
     if ("$bam" == "${prefix}.bam") error "Input and output names are the same, use \"task.ext.prefix\" to disambiguate!"
     """
-    ## Removing the sort memory -m ${sort_memory}M \\
-
     samtools sort \\
         $args \\
-        -@ $task.cpus \\  
+        -@ $task.cpus \\
         -o ${prefix}.bam \\
         -T $prefix \\
         $bam
