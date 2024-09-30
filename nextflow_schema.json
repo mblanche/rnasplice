@@ -677,7 +677,7 @@
                 },
                 "miso_genes": {
                     "type": "string",
-                    "default": "ENSG00000004961, ENSG00000005302",
+                    "default": "ENSG00000004961, fdasfdasfasd",
                     "description": "List containing identifiers of genes to plot."
                 },
                 "miso_genes_file": {
