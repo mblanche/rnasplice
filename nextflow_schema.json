@@ -29,6 +29,9 @@
                 },
                 "contrasts": {
                     "type": "string",
+                    "format": "file-path",
+                    "mimetype": "text/csv",
+                    "pattern": "^\\S+\\.csv$",
                     "description": "Path to comma-separated file containing information about the contrasts in the experiment."
                 },
                 "source": {
