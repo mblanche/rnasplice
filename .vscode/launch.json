@@ -10,7 +10,7 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "args": ["inputRunFile/contrast_test2.csv", "tmp/contrastsheet.valid.csv"]
+            "args": ["inputRunFile/contrast_test.csv", "tmp/contrastsheet.valid.csv"]
         }
     ]
 }
